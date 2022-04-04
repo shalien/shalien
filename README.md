@@ -7,7 +7,7 @@ I started software dev on C and JAVA before taking classes in C# / SQL / PHP / J
 
 Today I mainly work in Dart / Flutter.
 
-I also created  [Projetretro ⚙️](https://github.io/projetretro) a movement aimed to improve the present in all the possible way to make the future better. 
+I also created  [Projetretro ⚙️](https://github.com/projetretro) a movement aimed to improve the present in all the possible way to make the future better. 
 
 See you ! 
 
